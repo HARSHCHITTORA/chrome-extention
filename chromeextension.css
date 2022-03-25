@@ -1,0 +1,51 @@
+body{
+    margin:0;
+    padding:20 px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-color: aquamarine; 
+    min-width: 300px;
+    background-color: black;
+}
+
+#input-el{
+    padding-left:20px;
+    width:100%;
+    padding-right: 20px;
+    box-sizing:border-box;
+    margin-top: 20px;
+    border-color: aquamarine;
+    border-radius: 5px;
+    border-width: 5px;
+    padding-bottom: 10px;
+    padding-top: 10px ;
+}
+
+button{
+    background-color: aqua;
+    padding-left: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+    box-sizing: border-box;
+}
+ul{
+    list-style:none;
+     padding-left: 0;
+     margin-top: 5px;
+     margin-left: 10px;
+}
+li a{  
+    color:turquoise;
+}
+#delete-btn{
+      background-color: beige;
+      color: brown;
+}
+#save-btn{
+    background-color: aqua;
+        
+}
+
+#logo-el{
+    margin-left: 10px;
+    margin-top: 10px;
+}
